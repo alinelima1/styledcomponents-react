@@ -4,7 +4,14 @@ Aplicação criada na aula prática de ReactJs, no curso de FullStack da Digital
 
 Executar:
 
-Instalar última versão do node, ou versão > 11.*
-### mvn install node 
+### Instalar última versão do node, ou versão > 11.*
+$ mvn install node 
 
-### npx create-react-app stylehomes
+### Executar seguintes comandos:
+
+$ npx create-react-app stylehomes
+
+$ yarn add styled-components
+
+### Acessar a pasta stylehomes e executar o comando:
+$ yarn start
