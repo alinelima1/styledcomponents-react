@@ -2,12 +2,10 @@ import React from 'react'
 import styled from 'styled-components'
 
 const Content = styled.main `
-    background-color: gainsboro;
     display: flex;
     flex-direction: row;
     justify-content: space-between;
-    width: 80%;
-    height: 600px;
+    height: 500px;
     margin: 0 auto;
     box-sizing: border-box;
     align-items: center;
@@ -18,6 +16,9 @@ const Contentitem = styled.p `
     text-align: justify;
     font-family: 'Read';
     padding: 25px;
+    background-color: bisque;
+    box-sizing: border-box;
+    margin: 40px;
 `
 
 export default function content() {
