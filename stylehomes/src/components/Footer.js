@@ -10,14 +10,14 @@ const Footer = styled.footer `
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: #8793;
+    background-color: darkblue;
     height: 90px;
 `
 
 const Footeritem = styled.div `
     text-decoration: none;
     font-size: 16px;
-    color: #000;
+    color: #fff;
     font-weight: bold;
 `
 
